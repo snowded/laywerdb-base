@@ -2,7 +2,7 @@
 
 A modern, elegant law firm management system built with React, TypeScript, and MongoDB. Features a beautiful dynamic island-inspired navigation and a dark theme UI.
 
-![Law Office Management System](https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=1200)
+## Law Office Management System
 
 ## Features
 
